@@ -34,6 +34,10 @@ The following software is a bracket tournament system (single-elimination style)
 
 ## System Design
 
+### Initial Data Mapping 
+[data_map](documentation/images/data_map.png)
+
+
 ### Initial Sketch
 
 
