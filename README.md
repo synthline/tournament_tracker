@@ -1,5 +1,5 @@
 # tournament_tracker
-A tournament tracker developed in C# &amp; .NET with the intent of brushing up on my design, programming, testing, deploying and documenting skills. It is based on a course from [https://www.freecodecamp.org](freeCodeCamp.org), with a link to the course [https://www.youtube.com/watch?v=wfWxdh-_k_4&t=214s](here). 
+A tournament tracker developed in C# &amp; .NET with the intent of brushing up on my design, programming, testing, deploying and documenting skills. It is based on a course from [https://www.freecodecamp.org](freeCodeCamp.org), with a link to the course [https://www.youtube.com/watch?v=wfWxdh-_k_4&](here). 
 
 # Software Description
 
